@@ -28,7 +28,7 @@ TODO: Group member name
 
 TODO: Test 1
 
-TODO: Show a patch (diff) or a link to a commit made in your forked repository that shows the new test
+TODO: Show a patch (diff) or a link to a commit made in your repository that shows the new test
 
 TODO: Provide a screenshot of the old coverage results (the same as you already showed above)
 

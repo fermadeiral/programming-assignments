@@ -32,6 +32,8 @@ For the presentation, one group member should share their screen, and the evalua
 
 Each group will create a small, structured, and testable software project. The goal is to ensure that the project is simple enough to manage while being complex enough to make testing meaningful. The project can be written in **Java or Python** (that is, projects in other languages will not be accepted).
 
+More details of the minimum criteria for the project and code structures to be used are available in Section 3.3 below.
+
 Before starting, each group must define the purpose of their project and register it [here](https://docs.google.com/spreadsheets/d/1tYHh8h3cKHCUzhe6MnHL6ppBWpwk-FQYtmBd9rRg46E/edit?usp=sharing) (**do not request access to the file; be logged in with your VU email instead**). The description of the project proposal must be clear. Each group should check in the spreadsheet what the other groups have already registered because duplicate projects are not allowed.
 
 ### 3.2 Set Up Your GitHub Repository
@@ -46,11 +48,11 @@ Once your project is registered, the group will implement it collaboratively on 
 
 ### 3.3 Write Your Application Code Structured for Testability
 
-The project must be modular to allow for test coverage analysis. Each group member must write at least three functions that perform distinct operations. Each function must:
+The project must be modular to allow for test coverage analysis. Each group member must write **at least three functions** that perform distinct operations. Each function must:
 
 - be structured in a way that allows it to be tested individually (with parameters and return values);
 
-- contain at least one programming constructs such as conditionals and loops to ensure meaningful execution paths.
+- contain at least one programming construct such as conditional and loop to ensure meaningful execution paths.
 
 Once the project is fully implemented, the group will start testing it.
 
