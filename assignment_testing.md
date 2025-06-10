@@ -20,7 +20,7 @@ For the presentation, one group member should share their screen, and the evalua
 
 **Deadlines**:
 
-- Deadline for signing up for the presentation (the link for that will come soon): 11th of June.
+- Deadline for signing up for the presentation ([here](https://docs.google.com/spreadsheets/d/1NXXLEVcZ8KOeWOVuDWrmNea092s6A-q8/edit?usp=sharing&ouid=117866938970796978311&rtpof=true&sd=true)): 11th of June.
 
 - Deadline for deliverables: 12th of June.
 
