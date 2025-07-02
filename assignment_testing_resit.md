@@ -2,6 +2,10 @@
 
 The resit is individual, that is, not a group work.
 
+To resit, you must fill out a [form](https://docs.google.com/forms/d/e/1FAIpQLSfgsbCEcicld6UHyvCqQoR7uzxONj62HrJvzWGWNVm4QyOMTA/viewform?usp=header) (you can access the spreadsheet with your VU email address) so that we can arrange the presentation day.
+
+Deadline for registering: 6th of July (Sunday).
+
 ## 1. Goal
 
 The goal of this assignment is to experiment with test creation and coverage measurement. Each student will create their own project, develop test cases, measure test coverage, and refine or add new test cases to improve coverage.

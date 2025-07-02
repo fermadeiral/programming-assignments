@@ -2,6 +2,10 @@
 
 The resit is individual, that is, not a group work.
 
+To resit, you must fill out a [form](https://docs.google.com/forms/d/e/1FAIpQLSeF1UxySFtoWq1fE2uSIJGoqWpc7nxB8f9B2f593IYDz59BmQ/viewform?usp=header) (you can access the spreadsheet with your VU email address) so that we can arrange the presentation day.
+
+Deadline for registering: 6th of July (Sunday).
+
 ## 1. Goal
 
 The goal of this assignment is to master the core of continuous integration and delivery. To achieve this goal, you are required to implement workflows with [GitHub Actions](https://docs.github.com/en/actions) on a repository.
